@@ -1,27 +1,55 @@
-# Myapp
+﻿# Angular 2 - Crud register of User.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+=
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🖼 Screenshot application screen <br/>
 
-## Build
+<p>Home</p><img src="images/home.PNG">
+<br/>
+<br/>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+<p>List Users</p><img src="images/user-list.PNG">
+<br/>
+<br/>
+<p>Update User</p><img src="images/update-user.PNG">
+<br/>
+<br/>
+<p>Register User</p><img src="images/new-user.PNG">
+<br/>
+<br/>
+<p>Delete</p><img src="images/delete-user.PNG">
+<br/>
+<br/>
+<p>Logging</p><img src="images/logging.PNG">
+<br/>
+<br/>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<p>Validator</p><img src="images/validator.PNG">
+<br/>
+<br/>
 
-## Running end-to-end tests
+<br/>
+## 🚀 Tech Used<br/>
+<br/>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Angular<br/>
+- Typescript <br/>
+- html e css <br/>
+- Bootstrap
+<br/>
+
+
+
+## Linkedin below
+
+<h4 align="center">
+   Created by   <a href="https://www.linkedin.com/in/luiz-carlos-b50693173/" target="_blank"> Luiz Carlos </a>
+</h4>
+
+</html>
