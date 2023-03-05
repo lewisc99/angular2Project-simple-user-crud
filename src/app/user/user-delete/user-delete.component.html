@@ -13,10 +13,9 @@
                 <dt>CPF: </dt>
                 <dd>{{user.cpf}}</dd>
                  <br/>
-                <dt><button class="btn btn-danger" (click)="deleteUser(user.id)">Confirm</button></dt>
-                <dd><a class="btn btn-primary" routerLink="../../list">Return to list</a></dd>
+
             </dl>
-                
+            <div><button class="btn btn-danger mr-2" (click)="deleteUser(user.id)">Confirm</button><a class="btn btn-primary" routerLink="../../list">Return to list</a></div>
         </div>
     </div>
 </div>
